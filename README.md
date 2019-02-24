@@ -6,4 +6,4 @@ They are named as MVA-MP1.ipynb, MVA-MP2.ipynb, MVA-MP3.ipynb.
 
 The first mini-project MVA-MP1.ipynb is about Image Classification and Regression.
 
-The other two should be accomplished soon after.
+The third mini-project MVA-MP3.ipynb is about Deep Q-Network (DQN).
